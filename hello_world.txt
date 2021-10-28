@@ -1,0 +1,3 @@
+Hello, World!
+
+Looks like the git integration in VSCode is already set up?
